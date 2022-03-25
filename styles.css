@@ -1,0 +1,136 @@
+<style>
+/* body {
+  background: rgb(215, 182, 182);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+} */
+h2 {
+	color:rgb(96, 143, 73)
+}
+a{
+	text-decoration: none;
+	size: 100px;
+}
+a:hover{
+	background-color: black;
+}
+
+.navMenu{
+	background-color: rgb(48, 125, 98);
+	text-decoration: none;
+	text-align: center;
+	padding-top: 30px;
+	border-radius: 20px;
+	
+	
+	
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	padding-top: 10px;
+	color: orange;
+	background-color: blue;
+border: 2px solid black;
+padding: 10px;
+}
+
+a:visited {
+	color: rgb(201, 176, 181);
+}
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.Swift {
+	width: 50%; background-color: grey;
+}
+.Objective-C {
+	width: 30%; background-color: green;
+}
+.Java {
+	width: 20%; background-color: rgb(154, 117, 154);
+}
+.Python {
+	width: 10%; background-color: black;}
+
+
+.a{
+	display: flex; 
+}
+.color{
+padding: 10px;
+
+	color:red;
+	font-size: medium;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+background-color: rgb(74, 71, 40);	
+
+border: 2px dashed green;
+
+
+}
+.color:hover{
+	color: purple;
+}
+
+.place{
+padding: 10px;
+
+	color:rgb(98, 169, 68);
+	font-size: medium;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+background-color: rgb(0, 0, 0);	
+
+border: 2px dashed green;
+}
+.ritual{
+	padding: 10px;
+
+	color:rgb(255, 255, 255);
+	font-size: medium;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+background-color: rgb(74, 71, 40);	
+
+border: 2px dashed green;
+
+</style>
+
+
